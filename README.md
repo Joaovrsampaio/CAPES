@@ -31,3 +31,5 @@ As ferramentas utilizadas no projeto foram:
 - A fonte primária: https://geocapes.capes.gov.br/geocapes/ plataforma da CAPES que disponibiliza todos esses dados de pós-graduação no Brasil.
 - Fonte do Shapefile: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson/code
 - Fonte dos dados da análise: Os dados preparados por mim nesse projeto também está disponivél no meu kaggle como um dataset público https://www.kaggle.com/datasets/joovictorsampaio/capes-info
+
+
