@@ -26,3 +26,8 @@ As ferramentas utilizadas no projeto foram:
 - capes_prepração: É o notebook de preparação dos dados brutos para a criação do capes.csv.
 - analise_capes: É o notebook de análise, é nesse notebook que estão as análises do projeto, tal como os gráficos, mapas e tabelas geradas, por motivo de ter um tamnho que não é aceito pelo github, foi necessário utilizar o git Large File Storage para fazer o push desse notebook e por conta disso ele não está disponivél para vizualização
 - brasil_geo.json: É o shape file utilizado para criar os mapas dos estados brasilieros.
+
+## FONTES
+- A fonte primária: https://geocapes.capes.gov.br/geocapes/ plataforma da CAPES que disponibiliza todos esses dados de pós-graduação no Brasil.
+- Fonte do Shapefile: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson/code
+- Fonte dos dados da análise: Os dados preparados por mim nesse projeto também está disponivél no meu kaggle como um dataset público https://www.kaggle.com/datasets/joovictorsampaio/capes-info
