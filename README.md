@@ -19,6 +19,23 @@ As ferramentas utilizadas no projeto foram:
 - Tabulate para a criação de tabelas
 - Limpeza e preparação de um banco de dados como o unicode
 
+## DESCRIÇÃO DO DATASET
+Descrição das Variáveis:
+
+- Ano: O ano do programa
+- UF: O estado onde está localizado o programa
+- REGIAO: A região do Brasil que está localizado estado (Norte, Sul, Sudeste, Nordeste e Centro-Oeste)
+- COD_PROG: O código de identificação do programa
+- IES: A instituição de ensino superior que ofecer o programa
+- STATUS_JURIDICO: Qual a natureza Administrativa do IES (Federal, particular, estadual ou municipal)
+- PROGRAMA: O nome do programa
+- AREA_AVALIACAO: A area de avaliação do programa
+- AREA_CONHECIMENTO: Qual a área do conhecimento que o programa pertence
+- GRANDE_AREA: Qual a grande área do conhecimento que o programa pertence
+- MESTRADO: Número de bolsas de mestrado concedidas pela CAPES
+- DOUTORADO: Número de bolsas de doutorado concedidas pela CAPES
+- Para exemplificar a relação entre programa, área de avaliação, área do conhecimento e grande área PROGRAMA > ÁREA DO CONHECIMENTO > ÁREA DE AVALIAÇÃO > GRANDE ÁREA.
+
 
 ## Estrutura do Repositório CAPES
 
